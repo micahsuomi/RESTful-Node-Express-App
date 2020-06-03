@@ -1,0 +1,21 @@
+i.icon {
+    font-size: 2em;
+}
+
+i.chevron-icon {
+    font-size: 1em;
+}
+
+.main.container {
+    margin-top: 7em;
+}
+
+#delete {
+    display: inline;
+}
+
+.read-more {
+    display: flex!important;
+    justify-content: center!important;
+    align-items: center!important;
+}
